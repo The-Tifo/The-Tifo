@@ -35,7 +35,7 @@ I'm passionate about using technology to solve real-world problems, and I'm alwa
 
 # My stats so far
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Tifo&theme=aura_dark)
 
 ## 📚 Repositories
 
